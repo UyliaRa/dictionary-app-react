@@ -1,0 +1,12 @@
+.synonyms-section {
+    text-align: center;
+  }
+  
+  .synonyms li {
+    display: inline-block;
+    border: 1px solid #889eaf;
+    padding: 8px;
+    margin: 10px;
+    border-radius: 16px;
+  }
+  
