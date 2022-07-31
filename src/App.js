@@ -10,7 +10,7 @@ export default function App() {
         <h2 className="through">through the meanings of words</h2>
       </header>
       <Dictionary />
-      <footer className="sign">This app was coded by Yulia Ratseburzhynska, and is <a href="https://github.com/UyliaRa/dictionary-app-react" target="_blank">open-sourced</a></footer>
+      <footer className="sign">This app was coded by Yulia Ratseburzhynska, and is <a href="https://github.com/UyliaRa/dictionary-app-react" target="_blank" rel="noreferrer">open-sourced</a></footer>
     </div>
   );
 }
